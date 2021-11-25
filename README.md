@@ -13,9 +13,9 @@
  </table>
 
 <p>Connect Shopify App with DeliveryMagnet
-<a href='https://florentletendre.com/videos/dm_register_with_shopify.mp4' target='_blank'>See video</a>
+<a href='https://gemoo.com/tools/upload-video/share/586928815417892864?codeId=P5GE7EVk55YAL&card=586928810246316032' target='_blank'>See video</a>
  </p>
-<p>Fulfill & Push Shopify orders to DeliveryMagnet <a href='https://florentletendre.com/images/dm_push_gif.gif' target='_blank'>See video</a></p>
+<p>Fulfill & Push Shopify orders to DeliveryMagnet <a href='https://gemoo.com/tools/upload-video/share/586927032889040896?codeId=M0G17dY32w2yN&card=586927027470000128' target='_blank'>See video</a></p>
 
  
 
